@@ -1,0 +1,35 @@
+dependencies: \
+  /Users/romansp/Projects/agile-test/node_modules/react-native/React/Base/Surface/SurfaceHostingView/RCTSurfaceHostingProxyRootView.mm \
+  /Users/romansp/Projects/agile-test/ios/Pods/Target\ Support\ Files/React-Core/React-Core-prefix.pch \
+  /Users/romansp/Projects/agile-test/node_modules/react-native/React/Base/Surface/SurfaceHostingView/RCTSurfaceHostingProxyRootView.h \
+  /Users/romansp/Projects/agile-test/ios/Pods/Headers/Private/React-Core/React/RCTRootView.h \
+  /Users/romansp/Projects/agile-test/ios/Pods/Headers/Private/React-Core/React/RCTBridge.h \
+  /Users/romansp/Projects/agile-test/ios/Pods/Headers/Private/React-Core/React/RCTBridgeDelegate.h \
+  /Users/romansp/Projects/agile-test/ios/Pods/Headers/Private/React-Core/React/RCTJavaScriptLoader.h \
+  /Users/romansp/Projects/agile-test/ios/Pods/Headers/Private/React-Core/React/RCTDefines.h \
+  /Users/romansp/Projects/agile-test/ios/Pods/Headers/Private/React-Core/React/RCTInspectorDevServerHelper.h \
+  /Users/romansp/Projects/agile-test/ios/Pods/Headers/Private/React-Core/React/RCTPackagerConnection.h \
+  /Users/romansp/Projects/agile-test/ios/Pods/Headers/Private/React-Core/React/RCTBridgeModule.h \
+  /Users/romansp/Projects/agile-test/ios/Pods/Headers/Private/React-Core/React/RCTFrameUpdate.h \
+  /Users/romansp/Projects/agile-test/ios/Pods/Headers/Private/React-Core/React/RCTInvalidating.h \
+  /Users/romansp/Projects/agile-test/node_modules/react-native/React/Base/Surface/SurfaceHostingView/RCTSurfaceHostingView.h \
+  /Users/romansp/Projects/agile-test/ios/Pods/Headers/Private/React-Core/React/RCTSurfaceDelegate.h \
+  /Users/romansp/Projects/agile-test/ios/Pods/Headers/Private/React-Core/React/RCTSurfaceStage.h \
+  /Users/romansp/Projects/agile-test/ios/Pods/Headers/Private/React-Core/React/RCTSurfaceSizeMeasureMode.h \
+  /Users/romansp/Projects/agile-test/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/romansp/Projects/agile-test/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/romansp/Projects/agile-test/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/romansp/Projects/agile-test/ios/Pods/Headers/Private/React-Core/React/RCTAssert.h \
+  /Users/romansp/Projects/agile-test/ios/Pods/Headers/Private/React-Core/React/RCTUtils.h \
+  /Users/romansp/Projects/agile-test/node_modules/react-native/React/Base/RCTPerformanceLogger.h \
+  /Users/romansp/Projects/agile-test/node_modules/react-native/React/Profiler/RCTProfile.h \
+  /Users/romansp/Projects/agile-test/node_modules/react-native/React/Base/RCTRootContentView.h \
+  /Users/romansp/Projects/agile-test/ios/Pods/Headers/Private/React-Core/React/RCTView.h \
+  /Users/romansp/Projects/agile-test/ios/Pods/Headers/Private/React-Core/React/RCTBorderStyle.h \
+  /Users/romansp/Projects/agile-test/ios/Pods/Headers/Private/React-Core/React/RCTComponent.h \
+  /Users/romansp/Projects/agile-test/ios/Pods/Headers/Private/React-Core/React/RCTPointerEvents.h \
+  /Users/romansp/Projects/agile-test/node_modules/react-native/React/Base/RCTRootViewDelegate.h \
+  /Users/romansp/Projects/agile-test/node_modules/react-native/React/Base/Surface/RCTSurface.h \
+  /Users/romansp/Projects/agile-test/node_modules/react-native/React/Views/UIView+React.h \
+  /Users/romansp/Projects/agile-test/ios/Pods/Headers/Public/Yoga/yoga/YGEnums.h \
+  /Users/romansp/Projects/agile-test/ios/Pods/Headers/Public/Yoga/yoga/YGMacros.h

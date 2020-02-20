@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>37D47C31-4819-4D4E-AEE9-507C7813B5FC</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>37D47C31-4819-4D4E-AEE9-507C7813B5FC.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>agileTest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>agileTest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace agileTest with scheme agileTest and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>603842540.65755498</real>
+			<key>timeStoppedRecording</key>
+			<real>603842542.50382996</real>
+			<key>title</key>
+			<string>Building workspace agileTest with scheme agileTest and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>37D47C31-4819-4D4E-AEE9-507C7813B5FC</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

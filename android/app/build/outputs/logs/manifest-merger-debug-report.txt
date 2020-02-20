@@ -1,0 +1,264 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/romansp/Projects/agile-test/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/romansp/Projects/agile-test/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/romansp/Projects/agile-test/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/romansp/Projects/agile-test/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from /Users/romansp/Projects/agile-test/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [:@react-native-community_async-storage] /Users/romansp/Projects/agile-test/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:@react-native-community_masked-view] /Users/romansp/Projects/agile-test/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-gesture-handler] /Users/romansp/Projects/agile-test/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-reanimated] /Users/romansp/Projects/agile-test/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-safe-area-context] /Users/romansp/Projects/agile-test/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-screens] /Users/romansp/Projects/agile-test/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-vector-icons] /Users/romansp/Projects/agile-test/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/romansp/.gradle/caches/transforms-2/files-2.1/e09c79a855c0005f001b76ccd8e37c49/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.material:material:1.0.0] /Users/romansp/.gradle/caches/transforms-2/files-2.1/eeff80674190d3281b667df426ef5089/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/romansp/.gradle/caches/transforms-2/files-2.1/a100e776377fb7491f72c458b3645a77/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/romansp/.gradle/caches/transforms-2/files-2.1/2134beb0deeb330eab97e8f59c3e91c3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/romansp/.gradle/caches/transforms-2/files-2.1/87f1bb002016ae38bd21a8b4fd46b180/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0-alpha02] /Users/romansp/.gradle/caches/transforms-2/files-2.1/ba39da1631728e3c0de23d1861f6d49a/AndroidManifest.xml:17:1-24:12
+MERGED from [org.webkit:android-jsc:r245459] /Users/romansp/.gradle/caches/transforms-2/files-2.1/3c44bb767c03f81fdcdea2ba01c0053a/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/romansp/.gradle/caches/transforms-2/files-2.1/9897fed90415ebefc025478648bb4a2c/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/romansp/.gradle/caches/transforms-2/files-2.1/ba762e5138c555f8ae0162ec0b1a77af/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/romansp/.gradle/caches/transforms-2/files-2.1/fce953e2ceda462de9b1ba7d3695dd79/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/romansp/.gradle/caches/transforms-2/files-2.1/b6bfc34848cdcb97027571a0f89b7fc1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/romansp/.gradle/caches/transforms-2/files-2.1/cecc31fe482d04dfa53009e8ea6fb4f3/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/romansp/.gradle/caches/transforms-2/files-2.1/2999084c496bc5946e7ab137e561d783/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/romansp/.gradle/caches/transforms-2/files-2.1/f3a29306554bfc775ce97b3402e8c4b3/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/romansp/.gradle/caches/transforms-2/files-2.1/0c1cda92c64e892e9cbf5e12d9bf518a/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/romansp/.gradle/caches/transforms-2/files-2.1/c1f5dba47eb23e613c377f26e66b642f/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/romansp/.gradle/caches/transforms-2/files-2.1/d266b8a998bde0a522aa49af03508944/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/romansp/.gradle/caches/transforms-2/files-2.1/2e65443e8ce459f735c39e2854f1a6ef/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.1.0] /Users/romansp/.gradle/caches/transforms-2/files-2.1/68e90deea75bf524618ea942ce53fce5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/romansp/.gradle/caches/transforms-2/files-2.1/20cc001232aba100a838132131c42bec/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/romansp/.gradle/caches/transforms-2/files-2.1/44536d2fc45b9c23895347e1b3b72c21/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/romansp/.gradle/caches/transforms-2/files-2.1/0048a652758308ff99bdc69ef846f627/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/romansp/.gradle/caches/transforms-2/files-2.1/301a2da5de2159d0b534d8972f927ae7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/romansp/.gradle/caches/transforms-2/files-2.1/48161e7cc36b71516cb3a4a99b1d8b21/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/romansp/.gradle/caches/transforms-2/files-2.1/25eda253ed61cf092a309463316bc400/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/romansp/.gradle/caches/transforms-2/files-2.1/aa1b751ead9cd36437dce4238db6d853/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/romansp/.gradle/caches/transforms-2/files-2.1/2d92e8c9581d3d61990277bbd3140854/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/romansp/.gradle/caches/transforms-2/files-2.1/553c0ae5df5008a9f1d81fdc64ce832f/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/romansp/.gradle/caches/transforms-2/files-2.1/3896bbee213b157d21308f6e5ff703a8/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/romansp/.gradle/caches/transforms-2/files-2.1/21d3899394cded02d6e5600c86460c5b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] /Users/romansp/.gradle/caches/transforms-2/files-2.1/861d694e51db7739d683968d30c128a2/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/romansp/.gradle/caches/transforms-2/files-2.1/24a28979811db0dfc1cda522b5b255d9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/romansp/.gradle/caches/transforms-2/files-2.1/06d8d96fe5d87cb5fac4e2ff73935b5d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/romansp/.gradle/caches/transforms-2/files-2.1/2c6513e94756a2876ad77e87b3d4da24/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/romansp/.gradle/caches/transforms-2/files-2.1/5a4d15bf58575f4e18eb3270b6bc6000/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/romansp/.gradle/caches/transforms-2/files-2.1/651b5f071ece0ea02899c51c6f1615dc/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/romansp/.gradle/caches/transforms-2/files-2.1/0806c6d0cc37dd261059a8570792b6a3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/romansp/.gradle/caches/transforms-2/files-2.1/58e2580c559e8bf60bf3d93c7796ea7a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/romansp/.gradle/caches/transforms-2/files-2.1/f7dcf49a3d47cc3c325ac66eee507bfa/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/romansp/.gradle/caches/transforms-2/files-2.1/6a56b66355bcc661279e369a5fef8bf9/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/romansp/.gradle/caches/transforms-2/files-2.1/8b8725ae8f61d1bcab6e7e164db51408/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/romansp/.gradle/caches/transforms-2/files-2.1/1d40b055acf18175f46a23ba54ce29f2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/romansp/.gradle/caches/transforms-2/files-2.1/710b1a021aa804cc98a61b60f55b5002/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/romansp/.gradle/caches/transforms-2/files-2.1/87b60fde7004347a3c0bbbca2dd612f8/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/romansp/Projects/agile-test/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/romansp/Projects/agile-test/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/romansp/Projects/agile-test/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from /Users/romansp/Projects/agile-test/android/app/src/main/AndroidManifest.xml:2:3-26
+		INJECTED from /Users/romansp/Projects/agile-test/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/romansp/Projects/agile-test/android/app/src/main/AndroidManifest.xml:2:3-26
+		INJECTED from /Users/romansp/Projects/agile-test/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/romansp/Projects/agile-test/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/romansp/Projects/agile-test/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/romansp/Projects/agile-test/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/romansp/Projects/agile-test/android/app/src/debug/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/romansp/Projects/agile-test/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/romansp/Projects/agile-test/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/romansp/Projects/agile-test/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/romansp/Projects/agile-test/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/romansp/Projects/agile-test/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Users/romansp/Projects/agile-test/android/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /Users/romansp/Projects/agile-test/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /Users/romansp/Projects/agile-test/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /Users/romansp/Projects/agile-test/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/romansp/.gradle/caches/transforms-2/files-2.1/e09c79a855c0005f001b76ccd8e37c49/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/romansp/.gradle/caches/transforms-2/files-2.1/e09c79a855c0005f001b76ccd8e37c49/AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.material:material:1.0.0] /Users/romansp/.gradle/caches/transforms-2/files-2.1/eeff80674190d3281b667df426ef5089/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] /Users/romansp/.gradle/caches/transforms-2/files-2.1/eeff80674190d3281b667df426ef5089/AndroidManifest.xml:22:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/romansp/.gradle/caches/transforms-2/files-2.1/0c1cda92c64e892e9cbf5e12d9bf518a/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/romansp/.gradle/caches/transforms-2/files-2.1/0c1cda92c64e892e9cbf5e12d9bf518a/AndroidManifest.xml:11:5-20
+MERGED from [androidx.core:core:1.1.0] /Users/romansp/.gradle/caches/transforms-2/files-2.1/861d694e51db7739d683968d30c128a2/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /Users/romansp/.gradle/caches/transforms-2/files-2.1/861d694e51db7739d683968d30c128a2/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/romansp/.gradle/caches/transforms-2/files-2.1/2c6513e94756a2876ad77e87b3d4da24/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/romansp/.gradle/caches/transforms-2/files-2.1/2c6513e94756a2876ad77e87b3d4da24/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] /Users/romansp/.gradle/caches/transforms-2/files-2.1/861d694e51db7739d683968d30c128a2/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /Users/romansp/Projects/agile-test/android/app/src/main/AndroidManifest.xml:8:7-39
+		ADDED from /Users/romansp/Projects/agile-test/android/app/src/main/AndroidManifest.xml:8:7-39
+	tools:ignore
+		ADDED from /Users/romansp/Projects/agile-test/android/app/src/debug/AndroidManifest.xml:7:75-114
+	android:roundIcon
+		ADDED from /Users/romansp/Projects/agile-test/android/app/src/main/AndroidManifest.xml:10:7-52
+		ADDED from /Users/romansp/Projects/agile-test/android/app/src/main/AndroidManifest.xml:10:7-52
+	tools:targetApi
+		ADDED from /Users/romansp/Projects/agile-test/android/app/src/debug/AndroidManifest.xml:7:54-74
+	android:icon
+		ADDED from /Users/romansp/Projects/agile-test/android/app/src/main/AndroidManifest.xml:9:7-41
+		ADDED from /Users/romansp/Projects/agile-test/android/app/src/main/AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from /Users/romansp/Projects/agile-test/android/app/src/main/AndroidManifest.xml:11:7-34
+		ADDED from /Users/romansp/Projects/agile-test/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /Users/romansp/Projects/agile-test/android/app/src/main/AndroidManifest.xml:12:7-38
+		ADDED from /Users/romansp/Projects/agile-test/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:usesCleartextTraffic
+		ADDED from /Users/romansp/Projects/agile-test/android/app/src/debug/AndroidManifest.xml:7:18-53
+	android:name
+		ADDED from /Users/romansp/Projects/agile-test/android/app/src/main/AndroidManifest.xml:7:7-38
+		ADDED from /Users/romansp/Projects/agile-test/android/app/src/main/AndroidManifest.xml:7:7-38
+activity#com.agiletest.MainActivity
+ADDED from /Users/romansp/Projects/agile-test/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /Users/romansp/Projects/agile-test/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/romansp/Projects/agile-test/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /Users/romansp/Projects/agile-test/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /Users/romansp/Projects/agile-test/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/romansp/Projects/agile-test/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /Users/romansp/Projects/agile-test/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /Users/romansp/Projects/agile-test/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/romansp/Projects/agile-test/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /Users/romansp/Projects/agile-test/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/romansp/Projects/agile-test/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /Users/romansp/Projects/agile-test/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /Users/romansp/Projects/agile-test/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/romansp/Projects/agile-test/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/romansp/Projects/agile-test/android/app/src/main/AndroidManifest.xml
+MERGED from [:@react-native-community_async-storage] /Users/romansp/Projects/agile-test/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:@react-native-community_async-storage] /Users/romansp/Projects/agile-test/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:@react-native-community_masked-view] /Users/romansp/Projects/agile-test/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:@react-native-community_masked-view] /Users/romansp/Projects/agile-test/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-gesture-handler] /Users/romansp/Projects/agile-test/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/romansp/Projects/agile-test/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /Users/romansp/Projects/agile-test/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /Users/romansp/Projects/agile-test/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-safe-area-context] /Users/romansp/Projects/agile-test/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] /Users/romansp/Projects/agile-test/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-screens] /Users/romansp/Projects/agile-test/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-screens] /Users/romansp/Projects/agile-test/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /Users/romansp/Projects/agile-test/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /Users/romansp/Projects/agile-test/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/romansp/.gradle/caches/transforms-2/files-2.1/e09c79a855c0005f001b76ccd8e37c49/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/romansp/.gradle/caches/transforms-2/files-2.1/e09c79a855c0005f001b76ccd8e37c49/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.0.0] /Users/romansp/.gradle/caches/transforms-2/files-2.1/eeff80674190d3281b667df426ef5089/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /Users/romansp/.gradle/caches/transforms-2/files-2.1/eeff80674190d3281b667df426ef5089/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/romansp/.gradle/caches/transforms-2/files-2.1/a100e776377fb7491f72c458b3645a77/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/romansp/.gradle/caches/transforms-2/files-2.1/a100e776377fb7491f72c458b3645a77/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/romansp/.gradle/caches/transforms-2/files-2.1/2134beb0deeb330eab97e8f59c3e91c3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/romansp/.gradle/caches/transforms-2/files-2.1/2134beb0deeb330eab97e8f59c3e91c3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/romansp/.gradle/caches/transforms-2/files-2.1/87f1bb002016ae38bd21a8b4fd46b180/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/romansp/.gradle/caches/transforms-2/files-2.1/87f1bb002016ae38bd21a8b4fd46b180/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0-alpha02] /Users/romansp/.gradle/caches/transforms-2/files-2.1/ba39da1631728e3c0de23d1861f6d49a/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0-alpha02] /Users/romansp/.gradle/caches/transforms-2/files-2.1/ba39da1631728e3c0de23d1861f6d49a/AndroidManifest.xml:20:5-22:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/romansp/.gradle/caches/transforms-2/files-2.1/3c44bb767c03f81fdcdea2ba01c0053a/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/romansp/.gradle/caches/transforms-2/files-2.1/3c44bb767c03f81fdcdea2ba01c0053a/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/romansp/.gradle/caches/transforms-2/files-2.1/9897fed90415ebefc025478648bb4a2c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/romansp/.gradle/caches/transforms-2/files-2.1/9897fed90415ebefc025478648bb4a2c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/romansp/.gradle/caches/transforms-2/files-2.1/ba762e5138c555f8ae0162ec0b1a77af/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/romansp/.gradle/caches/transforms-2/files-2.1/ba762e5138c555f8ae0162ec0b1a77af/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/romansp/.gradle/caches/transforms-2/files-2.1/fce953e2ceda462de9b1ba7d3695dd79/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/romansp/.gradle/caches/transforms-2/files-2.1/fce953e2ceda462de9b1ba7d3695dd79/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/romansp/.gradle/caches/transforms-2/files-2.1/b6bfc34848cdcb97027571a0f89b7fc1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/romansp/.gradle/caches/transforms-2/files-2.1/b6bfc34848cdcb97027571a0f89b7fc1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/romansp/.gradle/caches/transforms-2/files-2.1/cecc31fe482d04dfa53009e8ea6fb4f3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/romansp/.gradle/caches/transforms-2/files-2.1/cecc31fe482d04dfa53009e8ea6fb4f3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/romansp/.gradle/caches/transforms-2/files-2.1/2999084c496bc5946e7ab137e561d783/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/romansp/.gradle/caches/transforms-2/files-2.1/2999084c496bc5946e7ab137e561d783/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/romansp/.gradle/caches/transforms-2/files-2.1/f3a29306554bfc775ce97b3402e8c4b3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/romansp/.gradle/caches/transforms-2/files-2.1/f3a29306554bfc775ce97b3402e8c4b3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/romansp/.gradle/caches/transforms-2/files-2.1/0c1cda92c64e892e9cbf5e12d9bf518a/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/romansp/.gradle/caches/transforms-2/files-2.1/0c1cda92c64e892e9cbf5e12d9bf518a/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/romansp/.gradle/caches/transforms-2/files-2.1/c1f5dba47eb23e613c377f26e66b642f/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/romansp/.gradle/caches/transforms-2/files-2.1/c1f5dba47eb23e613c377f26e66b642f/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/romansp/.gradle/caches/transforms-2/files-2.1/d266b8a998bde0a522aa49af03508944/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/romansp/.gradle/caches/transforms-2/files-2.1/d266b8a998bde0a522aa49af03508944/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/romansp/.gradle/caches/transforms-2/files-2.1/2e65443e8ce459f735c39e2854f1a6ef/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/romansp/.gradle/caches/transforms-2/files-2.1/2e65443e8ce459f735c39e2854f1a6ef/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.1.0] /Users/romansp/.gradle/caches/transforms-2/files-2.1/68e90deea75bf524618ea942ce53fce5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.1.0] /Users/romansp/.gradle/caches/transforms-2/files-2.1/68e90deea75bf524618ea942ce53fce5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/romansp/.gradle/caches/transforms-2/files-2.1/20cc001232aba100a838132131c42bec/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/romansp/.gradle/caches/transforms-2/files-2.1/20cc001232aba100a838132131c42bec/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/romansp/.gradle/caches/transforms-2/files-2.1/44536d2fc45b9c23895347e1b3b72c21/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/romansp/.gradle/caches/transforms-2/files-2.1/44536d2fc45b9c23895347e1b3b72c21/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/romansp/.gradle/caches/transforms-2/files-2.1/0048a652758308ff99bdc69ef846f627/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/romansp/.gradle/caches/transforms-2/files-2.1/0048a652758308ff99bdc69ef846f627/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/romansp/.gradle/caches/transforms-2/files-2.1/301a2da5de2159d0b534d8972f927ae7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/romansp/.gradle/caches/transforms-2/files-2.1/301a2da5de2159d0b534d8972f927ae7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/romansp/.gradle/caches/transforms-2/files-2.1/48161e7cc36b71516cb3a4a99b1d8b21/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/romansp/.gradle/caches/transforms-2/files-2.1/48161e7cc36b71516cb3a4a99b1d8b21/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/romansp/.gradle/caches/transforms-2/files-2.1/25eda253ed61cf092a309463316bc400/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/romansp/.gradle/caches/transforms-2/files-2.1/25eda253ed61cf092a309463316bc400/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/romansp/.gradle/caches/transforms-2/files-2.1/aa1b751ead9cd36437dce4238db6d853/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/romansp/.gradle/caches/transforms-2/files-2.1/aa1b751ead9cd36437dce4238db6d853/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/romansp/.gradle/caches/transforms-2/files-2.1/2d92e8c9581d3d61990277bbd3140854/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/romansp/.gradle/caches/transforms-2/files-2.1/2d92e8c9581d3d61990277bbd3140854/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/romansp/.gradle/caches/transforms-2/files-2.1/553c0ae5df5008a9f1d81fdc64ce832f/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/romansp/.gradle/caches/transforms-2/files-2.1/553c0ae5df5008a9f1d81fdc64ce832f/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/romansp/.gradle/caches/transforms-2/files-2.1/3896bbee213b157d21308f6e5ff703a8/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/romansp/.gradle/caches/transforms-2/files-2.1/3896bbee213b157d21308f6e5ff703a8/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/romansp/.gradle/caches/transforms-2/files-2.1/21d3899394cded02d6e5600c86460c5b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/romansp/.gradle/caches/transforms-2/files-2.1/21d3899394cded02d6e5600c86460c5b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] /Users/romansp/.gradle/caches/transforms-2/files-2.1/861d694e51db7739d683968d30c128a2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/romansp/.gradle/caches/transforms-2/files-2.1/861d694e51db7739d683968d30c128a2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/romansp/.gradle/caches/transforms-2/files-2.1/24a28979811db0dfc1cda522b5b255d9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/romansp/.gradle/caches/transforms-2/files-2.1/24a28979811db0dfc1cda522b5b255d9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/romansp/.gradle/caches/transforms-2/files-2.1/06d8d96fe5d87cb5fac4e2ff73935b5d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/romansp/.gradle/caches/transforms-2/files-2.1/06d8d96fe5d87cb5fac4e2ff73935b5d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/romansp/.gradle/caches/transforms-2/files-2.1/2c6513e94756a2876ad77e87b3d4da24/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/romansp/.gradle/caches/transforms-2/files-2.1/2c6513e94756a2876ad77e87b3d4da24/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/romansp/.gradle/caches/transforms-2/files-2.1/5a4d15bf58575f4e18eb3270b6bc6000/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/romansp/.gradle/caches/transforms-2/files-2.1/5a4d15bf58575f4e18eb3270b6bc6000/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/romansp/.gradle/caches/transforms-2/files-2.1/651b5f071ece0ea02899c51c6f1615dc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/romansp/.gradle/caches/transforms-2/files-2.1/651b5f071ece0ea02899c51c6f1615dc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/romansp/.gradle/caches/transforms-2/files-2.1/0806c6d0cc37dd261059a8570792b6a3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/romansp/.gradle/caches/transforms-2/files-2.1/0806c6d0cc37dd261059a8570792b6a3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/romansp/.gradle/caches/transforms-2/files-2.1/58e2580c559e8bf60bf3d93c7796ea7a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/romansp/.gradle/caches/transforms-2/files-2.1/58e2580c559e8bf60bf3d93c7796ea7a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/romansp/.gradle/caches/transforms-2/files-2.1/f7dcf49a3d47cc3c325ac66eee507bfa/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/romansp/.gradle/caches/transforms-2/files-2.1/f7dcf49a3d47cc3c325ac66eee507bfa/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/romansp/.gradle/caches/transforms-2/files-2.1/6a56b66355bcc661279e369a5fef8bf9/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/romansp/.gradle/caches/transforms-2/files-2.1/6a56b66355bcc661279e369a5fef8bf9/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/romansp/.gradle/caches/transforms-2/files-2.1/8b8725ae8f61d1bcab6e7e164db51408/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/romansp/.gradle/caches/transforms-2/files-2.1/8b8725ae8f61d1bcab6e7e164db51408/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/romansp/.gradle/caches/transforms-2/files-2.1/1d40b055acf18175f46a23ba54ce29f2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/romansp/.gradle/caches/transforms-2/files-2.1/1d40b055acf18175f46a23ba54ce29f2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/romansp/.gradle/caches/transforms-2/files-2.1/710b1a021aa804cc98a61b60f55b5002/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/romansp/.gradle/caches/transforms-2/files-2.1/710b1a021aa804cc98a61b60f55b5002/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/romansp/.gradle/caches/transforms-2/files-2.1/87b60fde7004347a3c0bbbca2dd612f8/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/romansp/.gradle/caches/transforms-2/files-2.1/87b60fde7004347a3c0bbbca2dd612f8/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/romansp/Projects/agile-test/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/romansp/Projects/agile-test/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/romansp/Projects/agile-test/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/romansp/Projects/agile-test/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/romansp/Projects/agile-test/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/romansp/Projects/agile-test/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/romansp/Projects/agile-test/android/app/src/debug/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /Users/romansp/Projects/agile-test/android/app/src/debug/AndroidManifest.xml:5:22-75
